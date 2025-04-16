@@ -108,13 +108,9 @@ E(rP) = wA × E(rA) + wB × E(rB) + wf × rf
 <img width="440" alt="截圖 2025-04-16 下午3 30 10" src="https://github.com/user-attachments/assets/849da807-e130-453c-ac20-d84a3e17256d" />
 
 a. 哪支股票具有較高的公司特定風險？
-
 b. 哪支股票具有較大的系統性(市場)風險？
-
 c. 哪支股票的R²值較高？
-
 d. 哪支股票的阿爾法值較高？
-
 e. 哪支股票與市場的相關性較高？
 
 ## 詳細解答
