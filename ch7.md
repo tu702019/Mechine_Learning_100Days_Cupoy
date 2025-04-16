@@ -68,15 +68,16 @@ w_S = \frac{[E(r_S) - r_f] \cdot \sigma_B^2 - [E(r_B) - r_f] \cdot \text{Cov}(r_
 [E(r_S) - r_f] \cdot \sigma_B^2 + [E(r_B) - r_f] \cdot \sigma_S^2 - 
 [E(r_S) - r_f + E(r_B) - r_f] \cdot \text{Cov}(r_S, r_B)}
 $$
-wS = [(E(rS) - rf)σB² - (E(rB) - rf)Cov(rS, rB)] / [(E(rS) - rf)σB² + (E(rB) - rf)σS² - (E(rS) - rf + E(rB) - rf)Cov(rS, rB)]
 
 代入數值後：
 - 股票基金比例 wS = 0.4516 (45.16%)
+
 $$
 w_S = \frac{(0.20 - 0.08) \cdot 225 - (0.12 - 0.08) \cdot 45}{
 (0.20 - 0.08) \cdot 225 + (0.12 - 0.08) \cdot 900 - (0.20 - 0.08 + 0.12 - 0.08) \cdot 45}
 = 0.4516
 $$
+
 - 債券基金比例 wB = 0.5484 (54.84%)
 
 此投資組合的：
