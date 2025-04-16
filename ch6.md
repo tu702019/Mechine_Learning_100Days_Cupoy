@@ -540,6 +540,7 @@ U = E(r) - 0.5Aσ² = E(r) - 1.5σ²
 **題目：** 在預期回報-標準差圖上繪製你的投資組合的資本配置線(CAL)。CAL的斜率是多少？顯示你的客戶在你的基金CAL上的位置。
 
 **解答：**
+
 <img width="376" alt="截圖 2025-04-16 下午2 08 46" src="https://github.com/user-attachments/assets/7fb1a75e-b3d7-4b8b-a4e6-51f604c9a8f8" />
 
 
