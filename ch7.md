@@ -62,6 +62,7 @@
 最佳風險投資組合(也稱為切點投資組合)是風險資產中能提供最佳風險報酬比的組合。
 
 計算公式：
+
 $$
 w_S = \frac{[E(r_S) - r_f] \cdot \sigma_B^2 - [E(r_B) - r_f] \cdot \text{Cov}(r_S, r_B)}{
 [E(r_S) - r_f] \cdot \sigma_B^2 + [E(r_B) - r_f] \cdot \sigma_S^2 - 
