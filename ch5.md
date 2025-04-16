@@ -233,6 +233,7 @@ E(r) = [0.35 × 44.5%] + [0.30 × 14.0%] + [0.35 × (–16.5%)] = 14%
 $$
 P = \sum_{t=1}^{T} \frac{C}{(1 + y)^t} + \frac{F}{(1 + y)^T}
 $$
+
 $$
 \text{HPR} = \frac{\text{票息收入（Coupon Income）} + \text{資本利得（Capital Gain or Loss）}}{\text{購買價格（Initial Price）}} = \frac{C + (P_1 - P_0)}{P_0}
 $$
@@ -278,6 +279,7 @@ $$
 $$
 E(q) = \sum_{i=1}^{n} P(q_i) \cdot q_i = (0.25 \cdot 0) + (0.25 \cdot 1) + (0.50 \cdot 2) = 1.25
 $$
+
 $$
 \sigma_q = \sqrt{\sum_{i=1}^{n} P(q_i) \cdot (q_i - E(q))^2}
 = \sqrt{0.25 \cdot (0 - 1.25)^2 + 0.25 \cdot (1 - 1.25)^2 + 0.50 \cdot (2 - 1.25)^2}
