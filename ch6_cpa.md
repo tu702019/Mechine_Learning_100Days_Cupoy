@@ -106,8 +106,8 @@ d. 每四個單位風險對應一個單位回報的偏好。
 
 ## 第4-5題
 使用以下圖表回答CFA問題4和5。
-<img width="382" alt="截圖 2025-04-16 下午2 35 38" src="https://github.com/user-attachments/assets/22bdeaec-d116-4657-98a7-0144cc0c3eb9" />
 
+<img width="382" alt="截圖 2025-04-16 下午2 35 38" src="https://github.com/user-attachments/assets/22bdeaec-d116-4657-98a7-0144cc0c3eb9" />
 
 ## 第4題
 **題目：** 哪條無差異曲線代表投資者可以達到的最高效用水平？
